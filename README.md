@@ -1,6 +1,6 @@
 ### Hi, I'm Akib. I build edge-native web platforms and developer tools that stay fast, secure and cheap to run.
 
-Full-stack software engineer in Dhaka, Bangladesh (UTC+6), open to remote work. B.Sc. CSE, CUET '24.
+Full-stack **Software Engineer** in Dhaka, Bangladesh (UTC+6), B.Sc. CSE, CUET '25.
 
 **What I've shipped**
 - [Akiblog Edge Platform](https://blog.akibh.dev): publishing system on Astro SSR and Cloudflare Workers, with Zero-Trust SSO for admin (no session database, no password flows) and D1 + R2 through Drizzle ORM · [code](https://github.com/akibh-dev/akiblog)
@@ -9,12 +9,12 @@ Full-stack software engineer in Dhaka, Bangladesh (UTC+6), open to remote work. 
 - [My Companion](https://github.com/akibh-dev/my-companion): personal Android app in Kotlin and Jetpack Compose that runs entirely on the device. It handles reminders, a YouTube background player, auto-reply across WhatsApp, Messenger, Signal and Telegram, and rules that change sound and Do Not Disturb by time, place or Wi-Fi. Clean Architecture, with decisions recorded as ADRs and Android CI · [code](https://github.com/akibh-dev/my-companion)
 - [Black Board](https://github.com/akibh-dev/black-board): real-time multi-user drawing canvas in Go, syncing events between clients over Gorilla WebSockets · [code](https://github.com/akibh-dev/black-board)
 
-**Stack:** Go · TypeScript · Kotlin · Python · C++ · Astro · React · Django · Cloudflare Workers, D1 and R2 · PostgreSQL · Docker · Linux
+**Stack:** TypeScript · Kotlin · Python · C++ · Go · Astro · React · Django · Cloudflare Workers, D1 and R2 · PostgreSQL · Docker · Linux
 
 **How I work:** tests in CI, Clean Architecture, and the reasons for my decisions written down in each repo's README.
 
 **Find me:** [Portfolio](https://akibh.dev) · [LinkedIn](https://linkedin.com/in/akibh) · [Writing](https://blog.akibh.dev) · [hello@akibh.dev](mailto:hello@akibh.dev)
 
-<sub>Problem solving: 350+ on [LeetCode](https://leetcode.com/u/akibh/) · Pupil on [Codeforces](https://codeforces.com/profile/akib35)</sub>
+<sub>Problem solving: 400+ on [LeetCode](https://leetcode.com/u/akibh/) · Pupil on [Codeforces](https://codeforces.com/profile/akib35)</sub>
 
 <sub>Currently building: BlockFlow store release</sub>
